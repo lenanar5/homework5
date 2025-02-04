@@ -1,0 +1,195 @@
+/* header */
+header {
+    background-color: #2A9D8F;
+    width: 1440px;
+    padding: 50px 130px;
+    margin: auto;
+}
+.header_ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.header_ul a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: "Nerko One", cursive;
+}
+.logo-link {
+    display: inline-block;
+    vertical-align: middle;
+    width: 46px;
+    height: 46px;
+    margin-right: 680px;
+
+
+}
+
+.nav-list {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
+
+.header_li {
+    display: inline-block;
+}
+
+.middle {
+    margin-inline: 38px;
+}
+
+.active {
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+
+    font-family: "Nerko One", serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.section_list {
+    background-color: #D4F3F0;
+    width: 1440px;
+    height: 580px;
+    margin: auto;
+}
+
+.section_class {
+    vertical-align: top;
+    width: 460px;
+
+
+
+
+}
+
+.cover,
+.section_class {
+    display: inline-block;
+}
+
+.a_cover {
+    vertical-align: top;
+    width: 600px;
+    height: 780px;
+
+
+
+
+}
+
+.cover {
+    padding: 140px;
+    padding-block: 50px;
+
+}
+
+.tittle1 {
+    margin: 30px 0;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+
+
+}
+
+.text1 {
+    color: #06686E;
+    margin: 30px 0;
+    font-size: 18px;
+    font-weight: 2750;
+    line-height: 27px;
+}
+
+.button {
+    background-color: #2A9D8F;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 275;
+    line-height: 24px;
+    border: none;
+    margin-top: 50px;
+}
+
+.article_text {
+    margin: 100px auto;
+}
+
+.tittle2 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.005em;
+    text-align: center;
+    padding-bottom: 60px;
+    color: #06686E;
+    width: 309px;
+    height: 48px;
+    left: 436px;
+
+
+}
+
+.text2 {
+    color: #06686E;
+    font-size: 24px;
+    font-weight: 275;
+    line-height: 36px;
+    padding-inline: 130px;
+    text-align: justify;
+}
+
+.footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    padding-block: 40px;
+
+    margin: auto;
+}
+
+.tittle3 {
+    font-family: Kanit;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+
+
+
+}
+
+.footer_list {
+    display: inline-block;
+    margin-top: 60px;
+
+}
+
+.footer_link {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+
+
+}
+
+
+.footer_nav {
+
+    width: 144px;
+    margin: auto;
+
+}
